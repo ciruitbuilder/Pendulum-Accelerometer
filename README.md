@@ -4,3 +4,4 @@ A single dimensional  which uses the angle made by a pendulum with the vertical 
 
 SCHEMATIC:
 
+<img width="894" height="573" alt="accelerometer circuit" src="https://github.com/user-attachments/assets/3ae3ba18-a348-40f4-af16-b9c5cbbb0bdb" />
