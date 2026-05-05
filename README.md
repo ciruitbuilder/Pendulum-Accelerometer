@@ -32,9 +32,7 @@ dividing 2 by 1:
 
          tan(x) = a/g
                           ______________
-                          
 FINAL EXPRESSION:        | a = g*tan(x) |
-
                          |______________|
 
 SCHEMATIC:
