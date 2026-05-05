@@ -9,7 +9,7 @@ This design involves a freely hanging pendulum with a pencil eraser as a mass co
 
 <img width="942" height="703" alt="Screenshot 2026-04-26 082919" src="https://github.com/user-attachments/assets/5096eadb-b36b-47ed-b4a1-d973a0cb838f" />
 
-[added extra mass to counter frictional opposition of potentiometer using a appropriately heavy, small screw]
+[later added extra mass to counter frictional opposition of potentiometer using a appropriately heavy, small screw]
 
 MECHANICS OF THE ACCELEROMETER:
 
