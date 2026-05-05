@@ -31,9 +31,8 @@ this makes the pendulum to swing and make a angle (x) with the accelerometer axi
 dividing 2 by 1:
 
          tan(x) = a/g
-                          ______________
+                         
 FINAL EXPRESSION:        | a = g*tan(x) |
-                         |______________|
 
 SCHEMATIC:
 
