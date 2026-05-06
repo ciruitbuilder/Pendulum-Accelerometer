@@ -1,8 +1,7 @@
 /* 
  * DIY Pendulum Accelerometer
  * Based on the AnalogReadSerial example.
- * Modified by Sanjay Adhinam S to include sensor mapping 
- * and acceleration derivations.
+ * Modified by Sanjay Adhinam S to add acceleration derivations.
  */
  
 const int analogInPin = A2;  // Analog input pin that the potentiometer is attached to
