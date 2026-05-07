@@ -82,6 +82,10 @@ These Vx values are measured by the ADC as values between 0 and 1023(lets call i
 
 OPERATION OF ACCELEROMETER:
 
+setup:
+
+<img width="4080" height="3060" alt="setup" src="https://github.com/user-attachments/assets/01f244ac-773a-477a-9afc-e6f169de6e76" />
+
 https://github.com/user-attachments/assets/5880ba18-84e8-4991-bf81-ed034f726edc
 
 image of serial plotter during another test run
