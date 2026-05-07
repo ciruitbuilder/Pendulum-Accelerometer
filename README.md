@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/5880ba18-84e8-4991-bf81-ed034f726edc
 
 image of serial plotter during another test run
 
-
+<img width="742" height="858" alt="image" src="https://github.com/user-attachments/assets/b500c2df-351a-4950-b67a-26a3a5f8f933" />
 
 LIMITATIONS:
 
