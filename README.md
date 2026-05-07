@@ -99,3 +99,7 @@ LIMITATIONS:
 2. One dimensional
 
 3. Difficult to test and check for errors
+
+END LINE:
+
+My inspiration for this project was from a class 11 problem, where a pendulum suspended in an accelerating frame made different angles with the vertical according to the acceleration of the frame. I thought "why not make a device that measures the acceleration of the frame using the angle the pendulum makes with the horizontal". While beggining this project i came accross another common accelerometer design using a spring mass system. My first iteration was the one that used a spring with a mass on it, but since i didnt have the precise tools to build it, it was dropped midway. Then i went with my more simpler and DIY- Friendly design inspired from a grade 11 problem.
